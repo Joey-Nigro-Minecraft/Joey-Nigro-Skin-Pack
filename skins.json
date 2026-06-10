@@ -1,0 +1,24 @@
+{
+  "serialize_name": "Joey",
+  "localization_name": "Joey",
+  "skins": [
+    {
+      "localization_name": "Joey",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "joey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jen",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "jen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "David",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "david.png",
+      "type": "free"
+    }
+  ]
+}

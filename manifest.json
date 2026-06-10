@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Joey's Minecraft Skins",
+    "uuid": "9a7a4be8-167a-55b3-d3fb-f3a79f514ff4",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9a3a4177-4c76-5cf3-7cd8-4da0a84fcfb2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Joey Nigro"
+    ]
+  }
+}
